@@ -1,1 +1,6 @@
 streamlit
+WhiteRabbitNeo
+requests           # Библиотека для отправки HTTP-запросов
+beautifulsoup4     # Для анализа HTML-контента, если необходимо для разведки
+lxml               # Парсер для работы с XML и HTML (используется с BeautifulSoup)
+pandas             # Для обработки данных в табличном формате, если это необходимо
